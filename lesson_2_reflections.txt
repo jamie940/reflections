@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+answer: nothing changed because I could choose what files I wanted to track rather than all the files in the same folder
